@@ -1,5 +1,3 @@
-# DevOps Interview Reference — HLD / LLD Deep Dives
-
 > Personal reference covering CI/CD pipeline design, Kubernetes deployments, traffic management, and Istio internals from a network perspective. Written for 6+ year DevOps / Platform Engineering roles.
 
 ---
